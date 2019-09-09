@@ -1,0 +1,14 @@
+/* My first CSS program */
+h1{
+    color: red;
+}
+
+li{
+    color: rgb(232,77,77);
+}
+p{
+    color: #4287f5
+}
+h4{
+    color: rgba(255,97,0,1)
+}
